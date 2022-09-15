@@ -1,0 +1,106 @@
+commit 15d30cb6d0276dbc91e1c9f5f144011206601905
+Author: PaoFer <aloapfergi95@gmail.com>
+Date:   Thu Sep 15 10:58:15 2022 -0500
+
+    Agregando 2 párrafos
+
+commit cadef939720a08390d576733b2162038a80951da
+Merge: e3a54da fda52a0
+Author: PaoFer <aloapfergi95@gmail.com>
+Date:   Thu Sep 15 10:54:24 2022 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas d
+    
+    q
+    
+    clear
+    
+    q
+    
+    q
+
+commit e3a54da5fce78c4c5e428b551e9c384b1bfda908
+Author: PaoFer <aloapfergi95@gmail.com>
+Date:   Wed Sep 14 14:11:13 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit fda52a02c24dee8550f4c9accfc0f9df26e8d29e
+Author: PaoFer <aloapfergi95@gmail.com>
+Date:   Wed Sep 14 14:11:13 2022 -0500
+
+    Agregando las estaciones del año
+
+commit 365b013333fd65d9920526b771cada6e913b7ecd
+Merge: 18fd617 2678a55
+Author: PaoFer <aloapfergi95@gmail.com>
+Date:   Fri Sep 9 19:22:10 2022 -0500
+
+    Reolviendo conflicto merge main/html en el documento index.html
+
+commit 2678a5532c4fd5aba4fb32d602c512d072e52490
+Author: PaoFer <aloapfergi95@gmail.com>
+Date:   Fri Sep 9 19:09:37 2022 -0500
+
+    Agregando index.js al index.html
+
+commit 18fd617ae8c2d59aa460a87438b557bcc70fe564
+Author: PaoFer <aloapfergi95@gmail.com>
+Date:   Fri Sep 9 19:02:46 2022 -0500
+
+    Agregando style.css al index.html
+
+commit cc40a9b25281854ca917ef0a009ac38ef157758e
+Merge: d0c1ffb 68c2458
+Author: PaoFer <aloapfergi95@gmail.com>
+Date:   Fri Sep 9 18:24:53 2022 -0500
+
+    Merge branch 'js'
+
+commit 68c2458c2f0a2f3fb9f443ecf27ffea11908cf30
+Author: PaoFer <aloapfergi95@gmail.com>
+Date:   Fri Sep 9 18:13:47 2022 -0500
+
+    Creando index.js
+
+commit d0c1ffb21fcf76122e4c247dc0cd1f7ce4995306
+Author: PaoFer <aloapfergi95@gmail.com>
+Date:   Fri Sep 9 17:57:01 2022 -0500
+
+    Creando style.css
+
+commit fade604a273de201337a189581efae35e1498fda
+Author: PaoFer <aloapfergi95@gmail.com>
+Date:   Fri Sep 9 17:47:31 2022 -0500
+
+    Creando index.html
+
+commit 2c470909cb94cd4540596d40f2b3008fcdc5bdad
+Author: PaoFer <aloapfergi95@gmail.com>
+Date:   Fri Sep 9 17:09:30 2022 -0500
+
+    Ignorando archivos .exe
+
+commit 5be3e47530f17854b300e296c03d44b2168ca68b
+Author: PaoFer <36412875+PaoFer@users.noreply.github.com>
+Date:   Fri Sep 9 13:30:16 2022 -0500
+
+    Creando licencia del repositorio
+
+commit 7276603a5f8892b43d90d92cc9ec139c888e9a31
+Author: PaoFer <aloapfergi95@gmail.com>
+Date:   Thu Sep 8 18:05:08 2022 -0500
+
+    Agregando más contenido al README
+
+commit e99eb41496c8e68584a945f3f890b0b9d5415f4a
+Author: PaoFer <aloapfergi95@gmail.com>
+Date:   Thu Sep 8 17:34:49 2022 -0500
+
+    Agregando contenido inicial al README
+
+commit 05b852b2339aa5eb82dc41ff61fe0c534c64d272
+Author: PaoFer <aloapfergi95@gmail.com>
+Date:   Thu Sep 8 17:27:34 2022 -0500
+
+    Primer commit
